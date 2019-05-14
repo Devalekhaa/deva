@@ -1,5 +1,5 @@
 import java.util.Scanner
-class Pos
+Public class Pos
 {
 public static void main(String[] args)
 {
