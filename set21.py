@@ -1,5 +1,5 @@
-m,n=input().split()
-a=int(m)
-b=int(n)
-c=a**b
-print(c)
+k,l=input().split()
+m=int(k)
+n=int(l)
+o=m**n
+print(o)
