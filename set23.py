@@ -6,5 +6,6 @@ if(a>1):
             break
         else:
             print("yes")
+            break
 else:
     print("no")
