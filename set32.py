@@ -1,6 +1,6 @@
-s=input()
-s=s.split(' ')
-v= [int(i) for i in a]
-c=max(v)
-print(c)
+n = int(input())
+a = input() 
+e = list(map(int,a.split(' '))) 
+print(max(e))
+
 
