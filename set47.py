@@ -1,0 +1,5 @@
+x=input().split(" ")
+y=(int(x[0]))
+z=(int(x[1]))
+print(z,end=" ")
+print(y)
