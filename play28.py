@@ -1,2 +1,2 @@
-s=input()
-print(s.replace(" ",""))
+d=input()
+print(d.replace(" ",""))
