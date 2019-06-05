@@ -1,0 +1,5 @@
+d,e =(input()).split()
+d=int(d)
+e=int(e)
+a=list(map(int,input().split()))
+print(a.count(e))
