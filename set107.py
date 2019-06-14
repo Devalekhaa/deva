@@ -1,0 +1,6 @@
+d,e,f=map(int,input().split())
+d=int(d)
+e=int(e)
+f=int(f)
+t=(f/2)*(2*d+(f-1)*e)
+print(int(t))
