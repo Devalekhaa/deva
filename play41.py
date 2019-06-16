@@ -1,0 +1,13 @@
+d=input().split()
+e=int(d[0])
+f=int(d[1])
+i=1
+g=0
+while(i!=e):
+    i=i*f
+    if(i>e):
+        break
+if(i==e):
+    print("yes")
+else:
+    print("no")
